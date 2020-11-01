@@ -1,7 +1,7 @@
 Hi there, I'm Maxim Castornyi
 
 
-I design, programm and develop web applications on MERN, MEAN, PHP(Laravel and Wordpress), Python(Django), Ruby on Rails, Golang, F#/C#, Java stacks. I`ll do your start up in the short time.
+I design, develop and deploy web applications on MERN, MEAN, PHP(Laravel and Wordpress), Python(Django), Ruby on Rails, Golang, F#/C#, Java stacks. I`ll do your start up in the short time.
 
 🔨 My Favorite Languages/Frameworks 🔨
 
