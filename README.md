@@ -1,9 +1,9 @@
-#Hi there, I'm Maxim Castornyi
+Hi there, I'm Maxim Castornyi
 
 
-##I design, programm and develop web applications on MERN, MEAN, PHP(Laravel and Wordpress), Python(Django), Ruby on Rails, Golang, F#/C#, Java stacks. I`ll do your start up in the short time.
+I design, programm and develop web applications on MERN, MEAN, PHP(Laravel and Wordpress), Python(Django), Ruby on Rails, Golang, F#/C#, Java stacks. I`ll do your start up in the short time.
 
-##🔨 My Favorite Languages/Frameworks 🔨
+🔨 My Favorite Languages/Frameworks 🔨
 
 1 (JavaScript): EcmaScript, MongoDB, Express, Node.js, React, React Redux, Redux-Saga, GraphQL, Relay. Angular ecosystem like: TypeScript, NgRx, RxJS, Webpack, SASS-LESS.
 
