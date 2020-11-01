@@ -20,7 +20,7 @@ I design, develop and deploy web applications on MERN, MEAN, PHP(Laravel and Wor
 
 8 (С#/F#). T-SQL, Entity Framework, ASP.NET Core, WPF, Blazor, Xamarin.
 
-9(Go-Golang) GORM, Gin, Echo.
+9 (Go-Golang) GORM, Gin, Echo.
 
 It`s possible to create web-design also. Calculation for time: a week for design, a week for front-end, a week for back-end. Payments weekly via PayPal.
 
