@@ -4,7 +4,7 @@ I design, develop and deploy web applications on MERN, MEAN, PHP(Laravel and Wor
 
 🔨 My Favorite Languages/Frameworks 🔨
 
-1 (JavaScript): EcmaScript, MongoDB, Express, Node.js, React, React Redux, Redux-Saga, GraphQL, Relay. Angular ecosystem like: TypeScript, NgRx, RxJS, Webpack, SASS-LESS.
+1 (JavaScript): EcmaScript, MongoDB, Express, Node.js, React, React Redux, Redux-Saga, GraphQL, Relay. React Native. Angular ecosystem like: TypeScript, NgRx, RxJS, Webpack, SASS-LESS.
 
 2 (Python). Python 3+, MySQL, PostgresSQL or MongoDB, Django.
 
