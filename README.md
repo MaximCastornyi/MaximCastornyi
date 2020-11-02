@@ -22,6 +22,8 @@ I design, develop and deploy web applications on MERN, MEAN, PHP(Laravel and Wor
 
 9 (Go-Golang) GORM, Gin, Echo.
 
+10 Salesforce development
+
 It`s possible to create web-design also. Calculation for time: a week for design, a week for front-end, a week for back-end. Payments weekly via PayPal.
 
 please, feel free to contact me
