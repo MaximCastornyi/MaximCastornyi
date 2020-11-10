@@ -18,7 +18,7 @@ I design, develop and deploy web applications on MERN, MEAN, PHP(Laravel and Wor
 
 7 (Erlang/Elixir). ETS tables, OTP, EDoc/ExDoc, Appmon, Pman, Table Viewer, Mnesia, Ecto.
 
-8 (С#/F#). T-SQL, Entity Framework, ASP.NET Core, WPF, Blazor, Xamarin.
+8 (С#/F#). T-SQL, SSRS, SSIS, SSAS, Entity Framework, ASP.NET Core, WPF, Blazor, Xamarin.
 
 9 (Go-Golang) GORM, Gin, Echo.
 
