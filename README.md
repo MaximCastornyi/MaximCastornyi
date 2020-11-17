@@ -8,7 +8,7 @@ I design, develop and deploy web applications on MERN, MEAN, PHP(Laravel and Wor
 
 2 (Python). Python 3+, MySQL, PostgresSQL or MongoDB, Django.
 
-3 (Java). Java, Spring, Spring Boot, Spring Security, JPA-Hibernate, MySQL, PostgresSQL or MongoDB, JUnit.
+3 (Java). Java, Spring, Spring Boot, Spring Security, JPA-Hibernate, MySQL, PostgresSQL or MongoDB, JUnit, Elasticsearch(+ Logstash + Kibana + Beats)
 
 4 (PHP). PHP 7, MySQL, PostgresSQL или MongoDB, PHPUnit, PSR standarts, Laravel, Wordpress CMS.
 
