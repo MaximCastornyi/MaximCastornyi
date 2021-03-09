@@ -10,11 +10,11 @@ I design, develop and deploy web applications on MERN, MEAN, PHP(Laravel), Pytho
 
 3 (Java). Java, Spring, Spring Boot, Spring Security, JPA-Hibernate, MySQL, PostgresSQL or MongoDB, JUnit, Elasticsearch(+ Logstash + Kibana + Beats), JMeter
 
-4 (PHP). PHP 7, MySQL, PostgresSQL или MongoDB, PHPUnit, PSR standarts, Laravel, Wordpress CMS.
+4 (PHP). PHP 7, MySQL, PostgresSQL или MongoDB, PHPUnit, PSR standards, Laravel, Wordpress CMS.
 
 5 (Dart). Mobile applications` development on Flutter.
 
-6 (Ruby). Ruby on Rails, MiniTest, Active Record, Active Merchant, Action Mailer, Active Job, Turbolinks, Action Cable и так далее.
+6 (Ruby). Ruby on Rails, MiniTest, Active Record, Active Merchant, Action Mailer, Active Job, Turbolinks, Action Cable and so on.
 
 7 (Erlang/Elixir). ETS tables, OTP, EDoc/ExDoc, Appmon, Pman, Table Viewer, Mnesia, Ecto.
 
