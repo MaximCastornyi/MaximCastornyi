@@ -10,19 +10,11 @@ I design, develop and deploy web applications on MERN, MEAN, PHP(Laravel), Pytho
 
 3 (Java). Java, Spring, Spring Boot, Spring Security, JPA-Hibernate, MySQL, PostgresSQL or MongoDB, JUnit, Elasticsearch(+ Logstash + Kibana + Beats), JMeter
 
-4 (PHP). PHP 7, MySQL, PostgresSQL или MongoDB, PHPUnit, PSR standards, Laravel, Wordpress CMS.
+4 (Dart). Mobile applications` development on Flutter.
 
-5 (Dart). Mobile applications` development on Flutter.
+5 (Ruby). Ruby on Rails, MiniTest, Active Record, Active Merchant, Action Mailer, Active Job, Turbolinks, Action Cable and so on.
 
-6 (Ruby). Ruby on Rails, MiniTest, Active Record, Active Merchant, Action Mailer, Active Job, Turbolinks, Action Cable and so on.
-
-7 (Erlang/Elixir). ETS tables, OTP, EDoc/ExDoc, Appmon, Pman, Table Viewer, Mnesia, Ecto.
-
-8 (С#/F#/Visual Basic.NET). T-SQL, SSRS, SSIS, SSAS, Entity Framework, ASP.NET Core, WPF, WCF, Blazor, Xamarin.
-
-9 (Go-Golang) GORM, Gin, Echo.
-
-10 (Salesforce) Apex, VF, Lightning Web Components development.
+6 (С#/F#/Visual Basic.NET). T-SQL, SSRS, SSIS, SSAS, Entity Framework, ASP.NET Core, WPF, WCF, Blazor, Xamarin.
 
 It`s possible to create web-design also. Calculation for time: a week for design, a week for front-end, a week for back-end. Payments weekly via PayPal.
 
@@ -32,7 +24,7 @@ Skype: NetsDevs NetsDevs
 
 E-Mail: nets.devs@gmail.com
 
-Site: http://netsdevs.com
+Site: [http://netsdevs-2024.web.app]
 
 
 [![Top Langs in public repos](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximCastornyi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
