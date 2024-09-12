@@ -24,7 +24,7 @@ Skype: NetsDevs NetsDevs
 
 E-Mail: nets.devs@gmail.com
 
-Site: [http://netsdevs-2024.web.app]
+Site: http://netsdevs-2024.web.app
 
 
 [![Top Langs in public repos](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximCastornyi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
